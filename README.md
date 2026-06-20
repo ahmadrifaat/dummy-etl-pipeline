@@ -15,7 +15,6 @@ google-auth~=2.36
 pytest~=8.0
 pytest-cov~=6.0
 
-```bash
 Run ETL Pipeline script
 python main.py
 
@@ -27,5 +26,5 @@ python -m coverage run -m pytest tests/
 python -m coverage report -m
 
 # URL Google Sheets:
-[https://docs.google.com/spreadsheets/d/1da_S99NcBK1UrJh8vPhw51C88tiDtf_FwpZX4RTnmCU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1da_S99NcBK1UrJh8vPhw51C88tiDtf_FwpZX4RTnmCU/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1da_S99NcBK1UrJh8vPhw51C88tiDtf_FwpZX4RTnmCU/edit?usp=sharing]
 
