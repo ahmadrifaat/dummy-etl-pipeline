@@ -1,0 +1,17 @@
+## Dependencies
+
+Libraries used in this project:
+
+```text
+pandas~=2.2
+beautifulsoup4~=4.12
+requests~=2.32
+sqlalchemy>=2.0
+psycopg2-binary~=2.9
+pg8000
+gspread
+google-api-python-client~=2.152
+google-auth~=2.36
+pytest~=8.0
+pytest-cov~=6.0
+
