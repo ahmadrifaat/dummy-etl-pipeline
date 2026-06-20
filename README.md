@@ -27,4 +27,6 @@ python -m coverage report -m
 
 # URL Google Sheets:
 [https://docs.google.com/spreadsheets/d/1da_S99NcBK1UrJh8vPhw51C88tiDtf_FwpZX4RTnmCU/edit?usp=sharing]
+```
+email at ahmadrifaatdm@gmail.com for google-sheet-api.json
 
